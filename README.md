@@ -54,3 +54,23 @@ Note: The provided CloudFormation template in this blog is formatted for AWS Gov
 
 Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 SPDX-License-Identifier: MIT-0
+
+
+=================
+https://github.com/OWASP/owasp-java-encoder
+
+The jars are also available in Maven:
+
+<dependency>
+    <groupId>org.owasp.encoder</groupId>
+    <artifactId>encoder</artifactId>
+    <version>1.2.3</version>
+</dependency>
+
+<dependency>
+    <groupId>org.owasp.encoder</groupId>
+    <artifactId>encoder-jsp</artifactId>
+    <version>1.2.3</version>
+</dependency>
+
+=====================
