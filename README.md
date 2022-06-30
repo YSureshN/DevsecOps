@@ -59,6 +59,8 @@ SPDX-License-Identifier: MIT-0
 =================
 https://github.com/OWASP/owasp-java-encoder
 
+=======================
+
 The jars are also available in Maven:
 
 <dependency>
