@@ -62,18 +62,18 @@ https://github.com/OWASP/owasp-java-encoder
 
 =======================
 
-<!-- The jars are also available in Maven:
+The jars are also available in Maven:
 
-<dependency>
-    <groupId>org.owasp.encoder</groupId>
-    <artifactId>encoder</artifactId>
-    <version>1.2.3</version>
-</dependency>
+# <dependency>
+#     <groupId>org.owasp.encoder</groupId>
+#     <artifactId>encoder</artifactId>
+#     <version>1.2.3</version>
+# </dependency>
 
-<dependency>
-    <groupId>org.owasp.encoder</groupId>
-    <artifactId>encoder-jsp</artifactId>
-    <version>1.2.3</version>
-</dependency> -->
+# <dependency>
+#     <groupId>org.owasp.encoder</groupId>
+#     <artifactId>encoder-jsp</artifactId>
+#     <version>1.2.3</version>
+# </dependency> -->
 
 =====================
